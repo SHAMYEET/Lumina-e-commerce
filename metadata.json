@@ -1,0 +1,7 @@
+{
+  "name": "Lumina E-Commerce",
+  "description": "A high-performance, full-stack e-commerce experience with advanced admin controls, product comparison, and seamless checkout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
